@@ -1,11 +1,3 @@
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-</style>
-
 <section style="display: grid; grid-template-columns: repeat(2, 1fr); margin-bottom: 1em;">
   <div>
     <h3>Hola, soy Carlos</h3>
