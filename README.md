@@ -39,7 +39,7 @@
 
 ###
 
-<div align="center">
+<div style="display: grid; grid-template-columns: 1fr; justify-items: center;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=carlo-MG&theme=nightowl&show_icons=true"
     height="150" alt="stats graph" />
