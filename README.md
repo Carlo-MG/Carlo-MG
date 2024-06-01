@@ -41,12 +41,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Carlo-MG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+    src="https://github-readme-stats.vercel.app/api?username=carlo-MG&theme=nightowl&show_icons=true"
     height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlo-MG&theme=nightowl" alt="">
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlo-MG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-    height="150" alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com?user=Carlo-MG&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+    src="https://streak-stats.demolab.com?user=Carlo-MG&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3"
     height="150" alt="streak graph" />
+
 </div>
